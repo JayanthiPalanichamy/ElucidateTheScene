@@ -1,5 +1,5 @@
 # Elucidate the scene
-A TensorFlow implementation of the image-to-text model described in the paper:
+A TensorFlow implementation of the image-to-text model.
 
 ## Contact
 ***Author:*** Jayanthi Palanichamy
